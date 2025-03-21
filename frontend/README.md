@@ -16,5 +16,4 @@ npm run dev
 Get top users
 Get comments for users
 
-```
 
